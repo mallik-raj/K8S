@@ -1,7 +1,7 @@
 # K8S
 
 
-# Somke testing
+# Smoke testing
 
 kubectl version --short
 
